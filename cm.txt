@@ -1,0 +1,4 @@
+youtube-dl -ciw --playlist-items 1-100 --extract-audio --audio-format mp3 --restrict-filenames https://www.youtube.com/playlist\?list\=PLOI77c-6ULGQN_-QXYrFhkfa_iffvV2Ac
+
+
+só trocar a playlist que é a melhor forma de baixar pelo yr dl
