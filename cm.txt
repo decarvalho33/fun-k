@@ -1,9 +1,12 @@
-NOVA:
+PRA MUSICA USANDO O YT-DLP:
 
 sudo -H pip install --upgrade yt-dlp
 
 yt-dlp -ciw --playlist-items 1-100 --extract-audio --audio-format mp3 --restrict-filenames https://www.youtube.com/playlist?list=PLOI77c-6ULGRH9WhbdwUIwojHnyQNzXhG
 
+PRA VÍDEO USANDO O YT-DLP:
+
+yt-dlp -f 22 [link]
 
 
 
